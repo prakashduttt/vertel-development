@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": "theo-belekas",
+      "name": "Theo Belekas",
+      "url": "/assets/images/our-team/theob.webp",
+      "designation": "Managing Director",
+      "linkedIn": "https://www.linkedin.com/in/theo-belekas-9050809/",
+      "content": "Theo Belekas was appointed Managing Director of Vertel in July 2015. He is responsible for the overall performance and leadership of all company operations and execution of the company strategy.Theo has over 25 years of commercial experience gained working for leading multinational technology vendors including Alcatel-Lucent and NCR as well as other Australian-based ICT companies. Before joining Vertel in 2010 he was the CFO of the Integ Group (a UXC Ltd Company) and was instrumental in the growth of the company through numerous acquisitions.He holds a Bachelor of Commerce Degree (Accounting and Information Systems) is a Fellow of the Australian Society of CPAs, a Graduate of the Australian Institute of Company Directors and a Kaplan and Norton Certified Graduate."
+    },
+    {
+      "id": "andrew-peterson",
+      "name": "Andrew Peterson",
+      "url": "/assets/images/our-team/andrew.webp",
+      "designation": "Director of Business Operations",
+      "linkedIn": "https://www.linkedin.com/in/andrew-peterson-bb39392a/",
+      "content": "Andrew holds a bachelor in Business majoring in Accounting and is a member of the Australian Societies of CPAs. Prior to joining Vertel, Andrew began his finance career in 1996 within the chartered firm Deloitte Touche Tohmatsu before entering commercial roles with Hoyts Cinemas in Sydney followed by Barclays Bank in London. In 2007 Andrew entered the technology industry as Financial Controller for US-listed companies VeriSign and PayPal before joining Vertel in 2013 as Financial Controller. Andrew now holds the position of Director of Business Operations, responsible for finance and commercial operations at Vertel."
+    },
+
+    {
+      "id": "alex-kanikevich",
+      "name": "Alex Kanikevich",
+      "url": "/assets/images/our-team/alex.webp",
+      "designation": "Director of Network Solutions Engineering",
+      "linkedIn": "https://www.linkedin.com/in/alex-kanikevich-9b07671a/",
+      "content": "Alex holds a bachelor of telecommunications and boasts more than 20 years of experience in Network Design, delivering solutions to complex carrier grade telecommunications architectures in Australia. Prior to joining Vertel Alex was the Principal Network Architect at AAPT responsible for design and development of the National Transmission network. Since 2010 he has run Vertel Engineering and Design Team, building the new National IP/MPLS network and designing innovative solutions to provide telecommunication services in challenging environments underserved by fibre infrastructure."
+    },
+    {
+      "id": "alberto-solfrini",
+      "name": "Alberto Solfrini",
+      "url": "/assets/images/our-team/alberto.webp",
+      "designation": "Director of Network Operations",
+      "linkedIn": "https://www.linkedin.com/in/albertosolfrini/",
+      "content": "consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorpe sipit lobortis nisl ut aliquip ex ea commodo consequat. Duis"
+    },
+    {
+      "id": "sanjeev-prasad",
+      "name": "Sanjeev Prasad",
+      "url": "/assets/images/our-team/sanjeev.webp",
+      "designation": "Head of Delivery and Field Services",
+      "linkedIn": "https://www.linkedin.com/in/sunny-sanjeev-prasad-21198b122/",
+      "content": "Sunny is a Project Manager offering over 20 years of demonstrated career success developing and executing operational strategies to promote organisational growth, focused on demonstrating exceptional customer service, whilst consistently meeting and exceeding productivity goals. Highly established in the administration environment being an exceptional leader and strategic decision-maker with strong communication presentation and negotiation skills, with the proven capacity to troubleshoot situations to resolve issues quickly while maintaining a high level of professionalism, patience, and efficiency."
+    },
+
+    {
+      "id": "samantha petchell",
+      "name": "Samantha Petchell",
+      "url": "/assets/images/our-team/samantha.webp",
+      "designation": "People & Culture Specialist",
+      "linkedIn": "https://www.linkedin.com/in/samantha-petchell-62846017/",
+      "content": "Kilda joined Vertel in March 2022 as Head of Marketing. Postgraduate qualified and commercially astute, Kilda has a track record of developing and leading marketing teams, delivering category growth and customer acquisition. Her strong experience working with SMEs to large corporations means she is well placed to lead Vertel’s marketing effort for the next stage of growth."
+    }
+  ],
+  "message": "team fetched"
+}

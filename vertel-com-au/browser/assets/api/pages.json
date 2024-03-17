@@ -1,0 +1,573 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "url": "/",
+        "metaTitle": "ICT Network Solutions | Reliable. Trusted. Connected | Vertel",
+        "metaDescription": "Vertel is an Australian, wholly-owned service provider that offers reliable ICT Network Solutions to Government Departments, Healthcare and other enterprises.",
+        "metaKeywords": "Vertel, ICT, Network Solutions, network services, Government Departments, Healthcare organisations, Holiday Paks, Wind Farms, ICT Enterprise, Reliable Network."
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "url": "/services",
+        "metaTitle": "Vertel | ICT & MSP Experts| Telco Industries best kept secret",
+        "metaDescription": "Vertel provides Australian organisations with innovative and affordable radio networks, ict solutions, and digital infrastructure systems that are backed by responsive local service for genuine peace of mind.",
+        "metaKeywords": "Network solutions, cloud storage, private cloud, public cloud hybrid cloud, cyber security"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "url": "/services/networks",
+        "metaTitle": "Vertel | Network Solutions | Reliable. Trusted. Connected",
+        "metaDescription": "Vertel provides Australian organisations with innovative and affordable networks and connectivity. Our reliable and affordable digital network services include cloud storage and management, ethernet, internet, sd-wan, secure internet gateway, managed lan/wlan and voice services",
+        "metaKeywords": "Network solutions, network service providers, connectivity, sd-wan, wlan, managed wlan services, smartfi, voice services"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "url": "/services/mobility",
+        "metaTitle": "Vertel | Mission Critical Communications | Radio Networks",
+        "metaDescription": "Vertel is a well known name in two-way radios and push to talk solutions. Vertel are proven solutions used in missions and life critical situations.",
+        "metaKeywords": "Vertel. Critical Communication. Mission Critical communication. NSW telco authority. Radio Networks. Push to talk. Push to talk over cellular"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "url": "/services/site-facilities",
+        "metaTitle": "Vertel | Telecommunication tower lease and Site access",
+        "metaDescription": "Vertel offers more than a space on a telecommunication tower. We are highly skilled in the management and maintenance of communication sites and supported by our 24/7 service desk and Network Operations Centre (NOC) based in Australia.",
+        "metaKeywords": "Vertel. Telecommunication tower. Telecom Tower."
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "url": "/services/professional-services",
+        "metaTitle": "Vertel |  Network Consulting | Strategy. Design. Support",
+        "metaDescription": "Vertel offers a comprehensive portfolio of end to end service for network and infrastructure projects. Vertel's expert delivery teams can support your 24/7 operation, manage your maintenance and support, advise your strategy and design or help build your new network.",
+        "metaKeywords": "Vertel. ICT Network Consulting. Networking Consulting."
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "url": "/services/networks/cloud",
+        "metaTitle": "Vertel | Infastructue as a Service | Cloud Services",
+        "metaDescription": "Vertel | the Australian Cloud Services Provider. Vertel offers a range of services for the Cloud including Infrastructure as a Service, Managed Service providing and back up as a Service. Affordable, flexible and Australian, we are reliable and trusted across governement, healthcare and hospitality industries.",
+        "metaKeywords": "Vertel. IAAS. Infrastructure as a service. Api management. Private cloud. Public cloud. Hybrid cloud. Cloud platforms. BAAS"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "url": "/services/networks/ethernet",
+        "metaTitle": "Vertel | Enterprise Ethernet | Trusted. Reliable. Connected",
+        "metaDescription": "Learn about enterprise ethernet at vertel and how Vertel can customise your package to suit your business. Our service grades include Vertel Wireless Technologies, third party fibre infrastructure and NBN Enterprise Ethernet Infrastructure.",
+        "metaKeywords": "Vertel. Wireless Technologies. Fibre Infrastructure. Ethernet. NBN. NBN Enterprise Infrastructure."
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "url": "/services/networks/internet",
+        "metaTitle": "Vertel | Unmetered Internet Service for Business",
+        "metaDescription": "Learn how Vertel Business Internet Solutions provide unmetered service that never throttles and has no additional excess data charges.",
+        "metaKeywords": "Vertel. Internet for Business. Internet Connectivity. Unmetered Internet"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "url": "/services/networks/sd-wan",
+        "metaTitle": "Vertel | Managed SD-WAN Provider | SD-WAN as a service",
+        "metaDescription": "Vertel is Australia's best kept secret for SD-Wan network deployment. Our highly experienced and reliable team will provide you the sd-wan service and support your organisations deserves.",
+        "metaKeywords": "Vertel. SD-WAN Network. SD-Wan"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "url": "/services/networks/secure-internet-gateway",
+        "metaTitle": "Vertel | Netconnect Secure | Firewall Protection",
+        "metaDescription": "Vertel’s secure internet gateway service, Netconnect Secure, combines our high-capacity, symmetrical Netconnect Internet service with our managed security service. This service is a cloud-based, fully managed network security service built on a next-generation firewall platform.",
+        "metaKeywords": "Vertel. Netconnect Secure. Firewall. Managed Security Service. Cloud based security."
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "url": "/services/networks/manage-lan-wan",
+        "metaTitle": "Vertel | Managed Wi-Fi Services | Business Wi-FI",
+        "metaDescription": "Vertel Smartfi offers carrier-grade access, guaranteed availability, and assured performance for Wi-Fi networks. Location-based services enable commercial, safety and operational functionality for venue owners and municipalities.",
+        "metaKeywords": "Vertel. Managed Wi-Fi for business. Wi-Fi networks."
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "url": "/services/networks/voice",
+        "metaTitle": "Vertel | Cloud-Based Phone Systems | Call Centre Software",
+        "metaDescription": "Learn more about the benefits of an easy to use cloud-based phone system software for your call centre by Vertel. Call our team today for a consult.",
+        "metaKeywords": "Vertel. Cloud Based Phone System. Call Centre Software"
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "url": "/services/mobility/radio-network",
+        "metaTitle": "Vertel | Mission Critical Communications | Radio Networks",
+        "metaDescription": "Vertel is a well known name in two-way radios and push to talk solutions. Vertel are proven solutions used in missions and life critical situations.",
+        "metaKeywords": "Vertel. Critical Communication. Mission Critical communication. NSW telco authority. Radio Networks. Push to talk. Push to talk over cellular"
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "url": "/services/mobility/push-to-talk",
+        "metaTitle": "Vertel | Mission Critical Communications | Push to talk",
+        "metaDescription": "Vertel is a well known name in two-way radios and push to talk solutions. Vertel are proven solutions used in missions and life critical situations.",
+        "metaKeywords": "Vertel. Critical Communication. Mission Critical communication. NSW telco authority. Radio Networks. Push to talk. Push to talk over cellular"
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "url": "/industries",
+        "metaTitle": "Vertel | Our Industries | Experts. Trusted. Connected.",
+        "metaDescription": "Vertel specialises in servicing the Government, Healthcare, Holiday Parks, Renewables, Education Sectors",
+        "metaKeywords": "Vertel. Governement, Healthcare. Holiday Parks, Renewables, Education."
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "url": "/industries/government",
+        "metaTitle": "Vertel | Government Solutions | Critical Communications Provider",
+        "metaDescription": "Vertel has services and solutions for all levels of government. Learn more about Governement technology solutions from Vertel. Experts in providing critical communications for Governement projects and Emergency services Australia wide",
+        "metaKeywords": "Vertel. Government. Government Projects. Federal Government. State Government. Local Government. Critical Communications. Emergency Services"
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "url": "/industries/enterprise  ",
+        "metaTitle": "Vertel | Enterprise & Business Solutions | Reliable. Secure. Connected",
+        "metaDescription": "Vertel has been an expert in being an innovative managed service provider and network solutions expert to enterprise and business for over 40 years. Get in touch today to see how Vertel can help your business.",
+        "metaKeywords": "Vertel. Enterprise. Business. Technology solutions. Network Solutions. Managed Services Provider"
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "url": "/industries/holidayparks",
+        "metaTitle": "Vertel | Holiday Parks Network Solution | Smart Parks",
+        "metaDescription": "Learn how Vertel specialises in transforming your holiday park into a smart park of the future through our ICT and MSP Network solutions.",
+        "metaKeywords": "Vertel. Holidays Parks. ICT. MSP. Network Solutions."
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "url": "/partner",
+        "metaTitle": "Vertel | Our Partners | Reliable. Secure. Connect",
+        "metaDescription": "Vertel is your gateway to connect with our network of word-class partners who provide trusted solutions.",
+        "metaKeywords": "Vertel. Partners. Trusted Network connections"
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "url": "/about-us",
+        "metaTitle": "Vertel | MSP Network Services | Reliable. Trusted. Connected",
+        "metaDescription": "Vertel provides Australian organisations with innovative and affordable radio networks, ict solutions, and digital infrastructure communication systems that are backed by responsive local service for genuine peace of mind.",
+        "metaKeywords": "Vertel, about-us, ICT solutions, managed service provider, digital infrastructure, IAAS, Radio Networks, SD-WAN, telecommunications provider, hybrid fibre network, critical communications, managed router servicers, cloud services"
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "url": "/contact-us",
+        "metaTitle": "Vertel | Contact Our Expert ICT team | Trusted. Reliable. Secure",
+        "metaDescription": "Contact our expert team of managed services consultants and network specialist here at Vertel today. With over 40 years of experience providing ICT solutions to Governement, Enterprise and other industries, we are the industries best kept secret.",
+        "metaKeywords": "Vertel. ICT. Expert Team."
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "url": "/about-us/careers",
+        "metaTitle": "Vertel | About Vertel | Careers",
+        "metaDescription": "Vertel makes a difference in how people receive education, health, emergency, and community services in Australia. Become part of our team.",
+        "metaKeywords": "Vertel. Careers."
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "url": "/about-us/corporate-social-responsibility",
+        "metaTitle": "Vertel | About Vertel | CSR",
+        "metaDescription": "Vertel is actively working towards our vision for smarter, healthier, and safer communities. Find out how we’re making a difference.",
+        "metaKeywords": "Vertel. Corporate Social Responsibility"
+      }
+    },
+    {
+      "id": 25,
+      "attributes": {
+        "url": "/about-us/our-expert-ict-msp-team",
+        "metaTitle": "Vertel | Our Expert Leadership ICT Team",
+        "metaDescription": "Vertel's ICT leadership team is dedicated to providing reliable, trusted ICT and MSP solutions to our customers.",
+        "metaKeywords": "Vertel. ICT Expert. MSP Expert."
+      }
+    },
+    {
+      "id": 26,
+      "attributes": {
+        "url": "/terms-of-use",
+        "metaTitle": "Vertel | Terms of Use",
+        "metaDescription": "By using our website, you are accepting our terms of use. Read the terms here.",
+        "metaKeywords": "Vertel. Terms of Use"
+      }
+    },
+    {
+      "id": 27,
+      "attributes": {
+        "url": "/privacy-policy",
+        "metaTitle": "Vertel | Privacy Policy",
+        "metaDescription": "Read Vertel’s privacy policy here.",
+        "metaKeywords": "Vertel. Privacy Policy"
+      }
+    },
+    {
+      "id": 28,
+      "attributes": {
+        "url": "/fair-use-policy",
+        "metaTitle": "Vertel | Fair Use Policy",
+        "metaDescription": "Read Vertel’s fair use policy here.",
+        "metaKeywords": "Vertel | Fair Policy"
+      }
+    },
+    {
+      "id": 29,
+      "attributes": {
+        "url": "/services/network-solutions/sd-wan",
+        "metaTitle": "Sd-wan | Best Sd wan Solutions | Vertel ",
+        "metaDescription": "Vertel is an Australian company that offers the best sd wan solutions for Government departments, Healthcare Org, Holiday Parks, Wind Farms, and others.",
+        "metaKeywords": "Sd wan, Sd-wan, Best Sd wan Solutions, Sd wan Australia, Managed Sd wan, Sd wan Providers,  Sd wan Technology"
+      }
+    },
+    {
+      "id": 30,
+      "attributes": {
+        "url": "/services/saas/ucaas",
+        "metaTitle": "UCaaS | Unified Communications Solutions | Vertel",
+        "metaDescription": "Transform your business communications seamlessly and securely with Vertel’s 8*8. Vertel provides the best unified communications solutions with UCaaS.",
+        "metaKeywords": "UcaaS, Unified Communications Solutions, UcaaS Australia, Cloud Communication Platform"
+      }
+    },
+
+    {
+      "id": 31,
+      "attributes": {
+        "url": "/big4conference",
+        "metaTitle": "Vertel | Big 4 Holiday Parks Conference Smart Communications",
+        "metaDescription": "Vertel assists big 4 holiday parks become smart parks with smart communications for holiday parks of the future.",
+        "metaKeywords": "Vertel | Vertel assists big 4 holiday parks become smart parks with smart communications for holiday parks of the future."
+      }
+    },
+    {
+      "id": 32,
+      "attributes": {
+        "url": "/services/telecommunications/virtual-training",
+        "metaTitle": "Vertel | Virtual Training Simulator | Beaconsim",
+        "metaDescription": "Vertel enabling innovation and inspiration in critical communication training through Beaconsim virtual learning simulation environment.",
+        "metaKeywords": "Vertel | Vertel. Critical Communications, Beaconsim, Virtual Training, device simulation training"
+      }
+    },
+    {
+      "id": 33,
+      "attributes": {
+        "url": "/services/network-solutions/sd-wan",
+        "metaTitle": "Vertel | SD-WAN",
+        "metaDescription": "Vertel helps businesses of all sizes find the network they need for the best performance through seamless SD-WAN.",
+        "metaKeywords": "SD-WAN. Vertel. Business Solutions. Network Solutions"
+      }
+    },
+    {
+      "id": 34,
+      "attributes": {
+        "url": "/services/saas/digital-wayfinding",
+        "metaTitle": "Vertel | Digital Wayfinding | Best Digital WayFinding Services",
+        "metaDescription": "Get wider human-centered communication strategy with Vertel’s Digital Wayfinding service. This is the next-generation communication strategy.",
+        "metaKeywords": "Digital Wayfinding, Digital WayFinding Services, Vertel"
+      }
+    },
+    {
+      "id": 35,
+      "attributes": {
+        "url": "/services/saas/wi-fi-analytics",
+        "metaTitle": "Grow Your Business with Vertel’s Wi-Fi Analytics | Vertel",
+        "metaDescription": "Grow your business and stay relevant in an increasingly connected world with Vertel’s Wi-Fi Analytics Solutions.",
+        "metaKeywords": "Wifi Analytics, Wifi Analytics Solutions, Vertel Wifi Analytics"
+      }
+    },
+    {
+      "id": 36,
+      "attributes": {
+        "url": "/services/mobile-radio-services/site-facilities",
+        "metaTitle": "Site Facilities | Colocation Solutions | Vertel ",
+        "metaDescription": "Vertel Push-to-Talk over Cellular is a sophisticated mobile workforce management and communications platform. It helps keep mobile workforces safe, in touch, and productive.",
+        "metaKeywords": "Site Facilities, Colocation Solutions, Vertel"
+      }
+    },
+    {
+      "id": 37,
+      "attributes": {
+        "url": "/services/network-solutions/managed-wifi",
+        "metaTitle": "Wifi 6e | Managed Wi-Fi for Business | Wi-Fi Solutions | Vertel",
+        "metaDescription": "Now get managed Wi-Fi for business with Vertel’s Wi-Fi 6e. Secure your business with Vertel’s Smartifi. Vertel provides enterprise grade Wi-Fi solutions.",
+        "metaKeywords": "wifi-6e, Wifi Service Wi-fi Solutions, Business Wifi Solutions, Wifi 6e Australia, Enterprise Wifi Solutions, Managed Wifi for Business"
+      }
+    },
+    {
+      "id": 38,
+      "attributes": {
+        "url": "/gday22",
+        "metaTitle": "Vertel | GDAY22 National Conference | Smart Holiday Parks",
+        "metaDescription": "Holiday Parks in Australia are awesome, but you need to make sure everything is safe, secure and comfortable. Smart Parks use Vertel to connect customers and improve their experience",
+        "metaKeywords": "Smart Holiday Parks. Holiday Parks Australia. Discovery Parks. G'day Parks"
+      }
+    },
+    {
+      "id": 39,
+      "attributes": {
+        "url": "/services/critical-telco-communications/mission-critical-services",
+        "metaTitle": "Mission Critical Services | Secure Network Solutions | Vertel ",
+        "metaDescription": "Vertel is providing Mission Critical Services to Govt. Agencies, NSW Ambulance, NSW Health, Local councils Australia-wide, and NSW Fire & Rescue and others. ",
+        "metaKeywords": "Mission Critical Services, Secure Network Solutions, Mission Critical Network Solutions, Mission Critical Communications"
+      }
+    },
+    {
+      "id": 40,
+      "attributes": {
+        "url": "/services/critical-telco-communications/radio-dispatch-console",
+        "metaTitle": "Vertel | Radio Dispatch Solutions | Critical Communication Experts",
+        "metaDescription": "Vertel Push-to-Talk over Cellular is a sophisticated mobile workforce management and communications platform. It helps keep mobile workforces safe, in touch, and productive.",
+        "metaKeywords": "Push to talk over cellular, push to talk, PTT, PoC, Vertel"
+      }
+    },
+    {
+      "id": 41,
+      "attributes": {
+        "url": "/services/security-solutions/network-security",
+        "metaTitle": "Network Security Solutions | Network Security Australia | Vertel",
+        "metaDescription": "Gain better security and protection with Vertel’s Netconnect Secure. Vertel provides the best Network Security Solutions with great visibility and powerful controls.",
+        "metaKeywords": "Network Security, Network Security Solutions, Radio Network Solution, Vertel"
+      }
+    },
+    {
+      "id": 42,
+      "attributes": {
+        "url": "/services/cloud-services/baas",
+        "metaTitle": "Backup as a Service | Best Cloud Backup Service | Vertel",
+        "metaDescription": "Don’t worry about your Data. Streamline and secure it with Vertel’s Cloud Backup Service. Our backup as a service can keep your data safe and secure.",
+        "metaKeywords": "Backup as a Service, Cloud Backup Solutions, Best Cloud Backup Service, BaaS, Cloud Backup Services."
+      }
+    },
+    {
+      "id": 43,
+      "attributes": {
+        "url": "/services/mobile-radio-services/poc",
+        "metaTitle": "Push to Talk Over Cellular | POC Solution |  Vertel",
+        "metaDescription": "With Vertel Push to Talk over Cellular you can keep your team connected, safe and productive. Get the best POC solution in the market.",
+        "metaKeywords": "Push to Talk Over Cellular, POC, PTT, Push to Talk Solutions, POC Solution"
+      }
+    },
+    {
+      "id": 44,
+      "attributes": {
+        "url": "/services/cloud-services/cloud-solutions",
+        "metaTitle": "Cloud Solutions | Best Cloud Solutions |  Vertel ",
+        "metaDescription": "Get speed and flexibility with Vertel’s best cloud solutions available. Vertel provides cloud solutions all over the the austrlian market.",
+        "metaKeywords": "Cloud Solutions, Hybrid Cloud Solutions, Private Cloud Solutions, Best Cloud Solutions, Vertel Cloud Solutions"
+      }
+    },
+    {
+      "id": 45,
+      "attributes": {
+        "url": "/bus-campaign",
+        "metaTitle": "Vertel | Bus Campaign",
+        "metaDescription": "Transport providers, including the Dyson Group.",
+        "metaKeywords": "Vertel Bus Campaign"
+      }
+    },
+    {
+      "id": 46,
+      "attributes": {
+        "url": "/services/security-solutions/cctv-surveillance",
+        "metaTitle": "CCTV surveillance systems | CCTV Solutions | Vertel ",
+        "metaDescription": "Protect your people and assets with Vertel;s CCTV Surveillance Systems. Vertel provides the best CCTV Solutions with keeping security in mind. ",
+        "metaKeywords": "CCTV Surveillance System, CCTV Solutions, Managed Video Surveillance, CCTV Security Surveillance"
+      }
+    },
+    {
+      "id": 47,
+      "attributes": {
+        "url": "/services/security-solutions/license-plate-recognition",
+        "metaTitle": "License Plate Recognition | Automatic License Plate Recognition",
+        "metaDescription": "Get Vertel's Automatic License Plate Recognition. It helps you to detect and recognise license plates and find the vehicles your're looking for.",
+        "metaKeywords": "License Plate Recognition, License Plate Recognition System, ALPR Solution, Vertel ALPR"
+      }
+    },
+    {
+      "id": 48,
+      "attributes": {
+        "url": "/services/security-solutions/surveillance-storage",
+        "metaTitle": "Surveillance Storage | Secure. Trusted. Reliable | Vertel",
+        "metaDescription": "Get enterprise-class surveillance storage solution. Protect your valuable data and always have a backup with Vertel's surveillance storage services.",
+        "metaKeywords": "Surveillance Storage, Cloud Based Storage System, CCTV Installation, Surveillance storage system"
+      }
+    },
+    {
+      "id": 49,
+      "attributes": {
+        "url": "/services/security-solutions/access-control",
+        "metaTitle": "Access Control Systems | Access Control Solution | Vertel",
+        "metaDescription": "Now you choose security and flexibility at the same time with Vertel's Access Control Solution that helps you keep things secure and allowing seamless movement.",
+        "metaKeywords": "Access Control, Access Control Systems, Access Control Solution, Vertel Access Control, Access Control"
+      }
+    },
+    {
+      "id": 50,
+      "attributes": {
+        "url": "/aruba-smartrouter",
+        "metaTitle": "Vertel | HPE Aruba is now at Vertel",
+        "metaDescription": "Vertel working with HPE Aruba to bring smart routers and reliable SD-wan to the renewables, construction, and transport industry.",
+        "metaKeywords": "HPE Aruba. Vertel. SD-WAN. Edgeconnect SD-wan. Renewables. Wind farms. Solar farms. Smart routers. Commercial construction."
+      }
+    },
+    {
+      "id": 51,
+      "attributes": {
+        "url": "/services",
+        "metaTitle": "Vertel | Reliable. Trusted. Connected | Vertel Services",
+        "metaDescription": "Choose from a wide range of services. From Network Solutions to Critical Telco Communications, Vertel is the best Managed Services Provider.",
+        "metaKeywords": "Network Solutions, Cloud Solutions, Software as a Service, Security Solutions, Radio Network Services, Critical Telco Communications, Vertel, Vertel Services"
+      }
+    },
+    {
+      "id": 52,
+      "attributes": {
+        "url": "/services/saas",
+        "metaTitle": "Software as a Service | SaaS Solutions | Vertel",
+        "metaDescription": "Get your business's problems solved with Software as a Service Solution. Choose Vertel for SaaS Solutions and get flexibility in your business.",
+        "metaKeywords": "Software as a Service, SaaS, SaaS Solutions, Software as a Service Solutions"
+      }
+    },
+    {
+      "id": 53,
+      "attributes": {
+        "url": "/services/cloud-services",
+        "metaTitle": "Cloud Services | Enterprise Cloud Service | Vertel",
+        "metaDescription": "Explore the cloud and scale your business to the next level. Vertel provides the best enterprise cloud services. Get benefits with Vertel's Cloud Solutions.",
+        "metaKeywords": "Cloud Services, Best Cloud Services, Cloud Solutions, Vertel Cloud Solution, Vertel"
+      }
+    },
+    {
+      "id": 54,
+      "attributes": {
+        "url": "/services/critical-telco-communications",
+        "metaTitle": "Critical Telco Communications |Critical Communications |Vertel",
+        "metaDescription": "Vertel provides critical telco communications that can help your staff and business safe. Stay connected, safe and productive with Vertel critical communication.",
+        "metaKeywords": "Critical Telco Communication, Vertel Tele Communication, Critical Communications Solution."
+      }
+    },
+    {
+      "id": 55,
+      "attributes": {
+        "url": "/services/mobile-radio-services",
+        "metaTitle": "Managed Radio Services | Managed Radio Networks | Vertel",
+        "metaDescription": "We provide solutions for the toughest environments. Now choose Vertel's Managed Radio Services for Australian Mission Critical Communications.",
+        "metaKeywords": "Managed Radio Services, Managed Radio Networks, Managed Radio Solutions, Critical Communication Solution"
+      }
+    },
+    {
+      "id": 56,
+      "attributes": {
+        "url": "/services/network-solutions",
+        "metaTitle": "Network Solutions for Australian Businesses | Vertel",
+        "metaDescription": "Enhance your network with Vertel's Network Solutions. Vertel provides a solution that frees you form all complexities, giving you a professional network management.",
+        "metaKeywords": "Retrieving data. Wait a few seconds and try to cut or copy again."
+      }
+    },
+    {
+      "id": 57,
+      "attributes": {
+        "url": "/services/network-solutions/enterprise-ethernet",
+        "metaTitle": "Enterprise Ethernet | Carrier Ethernet Services | Vertel",
+        "metaDescription": "Get the highest network availability and definitive quality with Vertel’s Enterprise ethernet. Vertel provides the best Carrier Ethernet services.",
+        "metaKeywords": "Enterprise Ethernet, Carrier Ethernet Services, Ethernet Services, Wireless Ethernet Services, Business Ethernet Services, Ethernet Services Australia"
+      }
+    },
+    {
+      "id": 58,
+      "attributes": {
+        "url": "/services/mobile-radio-services/managed-radio-services",
+        "metaTitle": "Critical Communication Solution | Communication Services | Vertel ",
+        "metaDescription": "Enhance your business communication with Vertel’s Managed Radio Network. We provide communication services that will help you with emergency communication. ",
+        "metaKeywords": "Managed Radio Services, Communication Services, Critical Communication Solutions, Managed Radio Networks, Managed Radio Services"
+      }
+    },
+    {
+      "id": 59,
+      "attributes": {
+        "url": "/services/critical-telco-communications/in-vehicle-network-solutions",
+        "metaTitle": "Network Solutions | In-Vehicle Network Solutions | Vertel",
+        "metaDescription": "Vertel Push-to-Talk over Cellular is a sophisticated mobile workforce management and communications platform. It helps keep mobile workforces safe, in touch, and productive.",
+        "metaKeywords": "Network Solutions, In-Vehicle Network Solutions, Cloud Managed LTE & 5G Solutions, In-Vehicle Voice Communications"
+      }
+    },
+    {
+      "id": 60,
+      "attributes": {
+        "url": "/services/critical-telco-communications/virtual-training",
+        "metaTitle": "Simulator Training Solution | Beaconsim | Vertel",
+        "metaDescription": "Learn in an advanced way with Vertel’s virtual learning simulator designed for mission critical communications. Beaconsim is the best Simulator Training Solution.",
+        "metaKeywords": "Simulator Training Solution, Beaconsim, Critical Communications Training, Simulator Training, Virtual Training Simulators"
+      }
+    },
+    {
+      "id": 61,
+      "attributes": {
+        "url": "/services/security-solutions",
+        "metaTitle": "Security and Network Solutions | Security Services | Vertel",
+        "metaDescription": "Stay protected from threats and vulnerabilities, and choose Vertel's Security and Network Solutions. We provide security solutions to businesses.",
+        "metaKeywords": "Security Solutions, Network Solutions, Security Services, CCTV Surveillance, Surveillance Storage, Access Control, Automatic License Plate Recognition"
+      }
+    },
+    {
+      "id": 62,
+      "attributes": {
+        "url": "/Caravan23",
+        "metaTitle": "Security and Network Solutions | Security Services | Vertel",
+        "metaDescription": "Stay protected from threats and vulnerabilities, and choose Vertel's Security and Network Solutions. We provide security solutions to businesses.",
+        "metaKeywords": "Security Solutions, Network Solutions, Security Services, CCTV Surveillance, Surveillance Storage, Access Control, Automatic License Plate Recognition"
+      }
+    },
+    {
+      "id": 63,
+      "attributes": {
+        "url": "/services/mission-critical-ptt",
+        "metaTitle": "Mission Critical PTT | Vertel",
+        "metaDescription": "The Mission Critical Push-to-Talk (MCPTT) service offered by Vertel stands as a pioneering solution, elevating communication to new heights.",
+        "metaKeywords": "The Mission Critical Push-to-Talk (MCPTT) service offered by Vertel stands as a pioneering solution, Vertel"
+      }
+    }
+  ],
+  "meta": {"pagination": {"page": 0, "pageSize": 0, "pageCount": 0, "total": 0}}
+}
