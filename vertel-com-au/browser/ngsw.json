@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710676762742,
+  "timestamp": 1710826192618,
   "appData": {
     "buildBy": "team at Vertel",
     "change": "Running at v15"
@@ -450,6 +450,7 @@
         "/assets/images/partner-music-bg.png",
         "/assets/images/partner-music-bg.webp",
         "/assets/images/partner-top-curve.svg",
+        "/assets/images/partners-logo/Cradlepoint_company_logo.png",
         "/assets/images/partners-logo/pl-1.webp",
         "/assets/images/partners-logo/pl-10.webp",
         "/assets/images/partners-logo/pl-11.webp",
@@ -634,7 +635,6 @@
         "/assets/slider-logo/8x8.svg",
         "/assets/slider-logo/DBB (Diocese of Broken Bay).svg",
         "/assets/slider-logo/GE renewable.svg",
-        "/assets/slider-logo/Group 1.svg",
         "/assets/slider-logo/Wollongong Diocese.svg",
         "/assets/slider-logo/airbus.svg",
         "/assets/slider-logo/big4-holidays.svg",
@@ -1087,6 +1087,7 @@
     "/assets/images/partner-music-bg.png": "a21e00db10f0c3506fbe82f09d3551f4828a2a6d",
     "/assets/images/partner-music-bg.webp": "5fc9d919d5fc5f40374152ba38c6c104467ea82f",
     "/assets/images/partner-top-curve.svg": "73a84acf32f1805bd3af4269e0d594fe273a82d7",
+    "/assets/images/partners-logo/Cradlepoint_company_logo.png": "d01a09280beeb62983ef20d9d20b769ca9eac62d",
     "/assets/images/partners-logo/pl-1.webp": "4780a5751ccfdc9a9ba91ddd791a3732699f5284",
     "/assets/images/partners-logo/pl-10.webp": "d06386d0427ba62fa700c1976d6513fd9270171b",
     "/assets/images/partners-logo/pl-11.webp": "6d40ed493d54dea8dcc1116083198a899361a91a",
@@ -1271,7 +1272,6 @@
     "/assets/slider-logo/8x8.svg": "5ef9a3c9f35956462c67eb04f1865176977d0167",
     "/assets/slider-logo/DBB (Diocese of Broken Bay).svg": "aac0fa3767a311e09197574a8b24295d677814c4",
     "/assets/slider-logo/GE renewable.svg": "4d999161c5cf16b9a7786912b7556eb5717ad093",
-    "/assets/slider-logo/Group 1.svg": "7fb061265d5263002e179417d41219f56fa3cbd5",
     "/assets/slider-logo/Wollongong Diocese.svg": "0a2e8b7c3046e3e6436625322beee2f64a2e0c7e",
     "/assets/slider-logo/airbus.svg": "57f9f5a095ba5c6d36a395fac990d9ba089a55ef",
     "/assets/slider-logo/big4-holidays.svg": "d925601274d551f8d1b516a183a5e22b2ea3be2b",
@@ -1286,7 +1286,7 @@
     "/favicon.ico": "d99095a5198b20fd59558bc6fe6217b86c333c88",
     "/government-breadcrumb-bg-xl.916683f18f441fbc.webp": "5bdc54fc8f747f7c841113272129cdde27e2e659",
     "/government-breadcrumb-bg.18e4e81d10c919da.webp": "d2324b8c8926adfb8922552e0ee6b62c300a0cd2",
-    "/index.html": "a174f66a30c907b227150276dcb399a66cfe2daa",
+    "/index.html": "8dd5e445ef03b85b9c6ea1770ec66688c90304d0",
     "/manifest.webmanifest": "5ce8f90a3a8fa7602b500e2dc54b9d8ca4ee7f9b",
     "/styles.5ffc0e04540457a4.css": "9a6e29d7ff23e9e38e8f6cf6e8223b98704aad11"
   },
