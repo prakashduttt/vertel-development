@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711253283148,
+  "timestamp": 1711462394882,
   "appData": {
     "buildBy": "team at Vertel",
     "change": "Running at v15"
@@ -301,6 +301,7 @@
         "/assets/images/fixed-wireless/fixed-2.png",
         "/assets/images/fixed-wireless/fixed-3.png",
         "/assets/images/fixed-wireless/fixed-4.png",
+        "/assets/images/fixed-wireless/fixed-wireless-2.webp",
         "/assets/images/fixed-wireless/fixed-wireless-old.webp",
         "/assets/images/fixed-wireless/fixed-wireless.webp",
         "/assets/images/fixed-wireless/og-image-old.png",
@@ -940,6 +941,7 @@
     "/assets/images/fixed-wireless/fixed-2.png": "edd658f83469647f8e534ab65383775a92035eb6",
     "/assets/images/fixed-wireless/fixed-3.png": "cba2555235602eb3cc85526d268527c9ba89c56f",
     "/assets/images/fixed-wireless/fixed-4.png": "466025f30bf3b6edbf6259e6861ca20e85f57a78",
+    "/assets/images/fixed-wireless/fixed-wireless-2.webp": "c7a49223ab0bb992ded0626ed2ce73c0864a27fc",
     "/assets/images/fixed-wireless/fixed-wireless-old.webp": "64edacc5eedc0486b01f7b97e30e19fa0cf69e09",
     "/assets/images/fixed-wireless/fixed-wireless.webp": "c7a49223ab0bb992ded0626ed2ce73c0864a27fc",
     "/assets/images/fixed-wireless/og-image-old.png": "4bbc2dd324cb2df95c109f21522895ef6a7a8e54",
@@ -1290,7 +1292,7 @@
     "/favicon.ico": "d99095a5198b20fd59558bc6fe6217b86c333c88",
     "/government-breadcrumb-bg-xl.916683f18f441fbc.webp": "5bdc54fc8f747f7c841113272129cdde27e2e659",
     "/government-breadcrumb-bg.18e4e81d10c919da.webp": "d2324b8c8926adfb8922552e0ee6b62c300a0cd2",
-    "/index.html": "8dd5e445ef03b85b9c6ea1770ec66688c90304d0",
+    "/index.html": "21802cd57cb8a989519d19eb6fbd93bab6f64ca3",
     "/manifest.webmanifest": "5ce8f90a3a8fa7602b500e2dc54b9d8ca4ee7f9b",
     "/styles.5ffc0e04540457a4.css": "9a6e29d7ff23e9e38e8f6cf6e8223b98704aad11"
   },
