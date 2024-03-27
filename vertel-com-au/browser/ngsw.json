@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711523400888,
+  "timestamp": 1711524794151,
   "appData": {
     "buildBy": "team at Vertel",
     "change": "Running at v15"
@@ -301,11 +301,7 @@
         "/assets/images/fixed-wireless/fixed-2.png",
         "/assets/images/fixed-wireless/fixed-3.png",
         "/assets/images/fixed-wireless/fixed-4.png",
-        "/assets/images/fixed-wireless/fixed-wireless-old-2.webp",
-        "/assets/images/fixed-wireless/fixed-wireless-old.webp",
         "/assets/images/fixed-wireless/fixed-wireless.webp",
-        "/assets/images/fixed-wireless/og-image-old-2.png",
-        "/assets/images/fixed-wireless/og-image-old.png",
         "/assets/images/fixed-wireless/og-image.png",
         "/assets/images/government-breadcrumb-bg-xl.webp",
         "/assets/images/government-breadcrumb-bg.webp",
@@ -943,11 +939,7 @@
     "/assets/images/fixed-wireless/fixed-2.png": "edd658f83469647f8e534ab65383775a92035eb6",
     "/assets/images/fixed-wireless/fixed-3.png": "cba2555235602eb3cc85526d268527c9ba89c56f",
     "/assets/images/fixed-wireless/fixed-4.png": "466025f30bf3b6edbf6259e6861ca20e85f57a78",
-    "/assets/images/fixed-wireless/fixed-wireless-old-2.webp": "c7a49223ab0bb992ded0626ed2ce73c0864a27fc",
-    "/assets/images/fixed-wireless/fixed-wireless-old.webp": "64edacc5eedc0486b01f7b97e30e19fa0cf69e09",
     "/assets/images/fixed-wireless/fixed-wireless.webp": "dc4ba6ef8e92cd70d61a172c231da32938ca11e2",
-    "/assets/images/fixed-wireless/og-image-old-2.png": "4d667889e0e0991d046cece5ee0bcb052c19d8ec",
-    "/assets/images/fixed-wireless/og-image-old.png": "4bbc2dd324cb2df95c109f21522895ef6a7a8e54",
     "/assets/images/fixed-wireless/og-image.png": "f410e623b92a758308459e80d463a1576af2f0f2",
     "/assets/images/government-breadcrumb-bg-xl.webp": "5bdc54fc8f747f7c841113272129cdde27e2e659",
     "/assets/images/government-breadcrumb-bg.webp": "d2324b8c8926adfb8922552e0ee6b62c300a0cd2",
