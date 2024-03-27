@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711524794151,
+  "timestamp": 1711526544762,
   "appData": {
     "buildBy": "team at Vertel",
     "change": "Running at v15"
@@ -935,10 +935,10 @@
     "/assets/images/ethernet-v4x/health-centres.webp": "f3c988aa2ab2eea60f17d84d25609d55605a9741",
     "/assets/images/ethernet-v4x/network-monitoring.webp": "0e7bbf4fee187e2ce91632ef65af354a9323dbfd",
     "/assets/images/favicon.ico": "d99095a5198b20fd59558bc6fe6217b86c333c88",
-    "/assets/images/fixed-wireless/fixed-1.png": "d47e940980f773b83688f0de8243fc8a21eb7a44",
+    "/assets/images/fixed-wireless/fixed-1.png": "3b915fe505f5f65021339e3695eb86badb8aa2f5",
     "/assets/images/fixed-wireless/fixed-2.png": "edd658f83469647f8e534ab65383775a92035eb6",
     "/assets/images/fixed-wireless/fixed-3.png": "cba2555235602eb3cc85526d268527c9ba89c56f",
-    "/assets/images/fixed-wireless/fixed-4.png": "466025f30bf3b6edbf6259e6861ca20e85f57a78",
+    "/assets/images/fixed-wireless/fixed-4.png": "e824e8663181f7e83aa23683329ec6e7e6b4a7bb",
     "/assets/images/fixed-wireless/fixed-wireless.webp": "dc4ba6ef8e92cd70d61a172c231da32938ca11e2",
     "/assets/images/fixed-wireless/og-image.png": "f410e623b92a758308459e80d463a1576af2f0f2",
     "/assets/images/government-breadcrumb-bg-xl.webp": "5bdc54fc8f747f7c841113272129cdde27e2e659",
