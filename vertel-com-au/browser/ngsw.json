@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711462892851,
+  "timestamp": 1711518474032,
   "appData": {
     "buildBy": "team at Vertel",
     "change": "Running at v15"
@@ -512,6 +512,7 @@
         "/assets/images/radio-dispatch-console/transport.webp",
         "/assets/images/radio-dispatch-console/utilities.webp",
         "/assets/images/reflection.webp",
+        "/assets/images/renewable-communication/banner-old.webp",
         "/assets/images/renewable-communication/banner.webp",
         "/assets/images/renewable-communication/og-image.webp",
         "/assets/images/renewable-communication/renewables-1.webp",
@@ -1152,7 +1153,8 @@
     "/assets/images/radio-dispatch-console/transport.webp": "c12c37eb5f3bfd14fb67aa63967331c7fee12535",
     "/assets/images/radio-dispatch-console/utilities.webp": "00a0b0b4586446893f213c908706b35bfe7fd847",
     "/assets/images/reflection.webp": "c92803e50dd4b6ece52fbfc3ea8c9a7a8af7e8cb",
-    "/assets/images/renewable-communication/banner.webp": "75db7c23aa1b124549c191cba27adc458f2b77e6",
+    "/assets/images/renewable-communication/banner-old.webp": "75db7c23aa1b124549c191cba27adc458f2b77e6",
+    "/assets/images/renewable-communication/banner.webp": "37acb90871db1ff276fefa2b6071ea69239141c8",
     "/assets/images/renewable-communication/og-image.webp": "7ee564a2f076c45b32706135da0fd802342dea05",
     "/assets/images/renewable-communication/renewables-1.webp": "b03c3d66761971b7170f8c1f8e8e3d8dd4e66e9c",
     "/assets/images/renewables/aruba-networks-logo.webp": "4cdd5eab22e0f63cf632896daa7c5a6a3841b4f5",
@@ -1292,7 +1294,7 @@
     "/favicon.ico": "d99095a5198b20fd59558bc6fe6217b86c333c88",
     "/government-breadcrumb-bg-xl.916683f18f441fbc.webp": "5bdc54fc8f747f7c841113272129cdde27e2e659",
     "/government-breadcrumb-bg.18e4e81d10c919da.webp": "d2324b8c8926adfb8922552e0ee6b62c300a0cd2",
-    "/index.html": "8590add8094580cd83429f2498a75be613594bda",
+    "/index.html": "c492dc5ecc0205ac9506429aa44c34891a201972",
     "/manifest.webmanifest": "5ce8f90a3a8fa7602b500e2dc54b9d8ca4ee7f9b",
     "/styles.5ffc0e04540457a4.css": "9a6e29d7ff23e9e38e8f6cf6e8223b98704aad11"
   },
